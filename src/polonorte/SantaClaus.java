@@ -53,7 +53,7 @@ public class SantaClaus {
 			saludo = "¡todos los años pidiendo juguetes! ¡Me tenéis harto!";
 			break;
 		case Utils.CARACTER_FURIOSO:
-			saludo = "ODIO LA NAVIDAAAAADD!! DEJAD DE ESCRIBIRME!";
+			saludo = "ODIO LA NAVIDAAAAADD!! DEJAD DE ESCRIBIRME! PUÑETAAAAAAAAAAAAAAAAAAAAAA";
 			break;
 		default:
 			saludo = "hoho? otra vez?";
